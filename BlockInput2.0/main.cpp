@@ -2,5 +2,8 @@
 
 int main()
 {
-	BlockInput(true);
+	while (true)
+	{
+		BlockInput(true);
+	}
 }
